@@ -1,7 +1,6 @@
 # 👋 Hi there!
 
-**Full Stack Developer | BI Analyst | AI/ML Enthusiast**  
-💵 $10 USD / Hour  
+**Full Stack Developer | BI Analyst | AI/ML Enthusiast**
 
 I’m a full-stack web & mobile developer with **5+ years of experience** building high-quality, scalable, and user-friendly applications. I love turning complex problems into elegant solutions, both on the front-end and back-end.  
 
