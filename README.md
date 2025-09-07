@@ -55,5 +55,3 @@ I care about **clean code**, **beautiful UI/UX**, and **turning complex data int
 Deadlines? ✅ Met. Ideas? 💡 Turned into polished, professional digital products.  
 
 Let’s build something amazing together! 🌟  
-
-[🔗 My Freelancer Profile](https://www.freelancer.com/u/albertc1996)
