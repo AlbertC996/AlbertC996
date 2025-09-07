@@ -1,49 +1,60 @@
-## Hi there 👋
+# 👋 Hi there!
 
-Full Stack Developer & BI Analyst & Ai/ML
-$10 USD / Hour
+**Full Stack Developer | BI Analyst | AI/ML Enthusiast**  
+💵 $10 USD / Hour  
 
-・
+I’m a full-stack web & mobile developer with **5+ years of experience** building high-quality, scalable, and user-friendly applications. I love turning complex problems into elegant solutions, both on the front-end and back-end.  
 
-Flag of 
-Poland (7:35 AM)
+---
 
-・
+## 💻 My Tech Stack
 
-Joined on April 9, 2025
+**Languages:**  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
 
-I’m a full-stack web and mobile developer with over 5 years of experience creating high-quality, scalable, and user-friendly applications. I specialize in both front-end and back-end development using modern tools and frameworks. My tech stack includes:
+**Frameworks & Front-End:**  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 
-🔹Programming Languages: PHP, JavaScript (ES6+), Python, .NET
+**Back-End & DevOps:**  
+RESTful APIs, MVC Architecture, Authentication & Authorization  
+CI/CD, AWS, Azure, Kubernetes, Linux, Nginx, IIS, Firewall, SSL, DNS  
 
-🔹 Frameworks: Laravel, Tailwind CSS, Bootstrap, Django, Django REST Framework, Node.js, Nest.js
+**Tools & Practices:**  
+Git, Web Mail, Debugging, Performance Tuning, Cross-Browser Compatibility, Scalable App Development  
+✨ Fun Fact: I’ve built scalable backend systems with Docker 🐳  
 
-🔹 Front-End Development: Next.js, Angular
+---
 
-🔹 Back-End Development: RESTful APIs, MVC Architecture, Authentication & Authorization
+## 📊 BI & Data Analytics
 
-🔹Databases: MySQL, PostgreSQL, SQL Query Optimization
+I’m not just a developer — I’m a **data wizard** too! I transform raw data into actionable insights for smart business decisions.  
 
-🔹DevOps: ci/cd, aws, azure, Kubernetes, linux, nginx, iis, firewall, ssl, dns
+**Skills & Expertise:**  
+- 🎨 UI/UX & Product Design  
+- 🗄️ Database Administration (Oracle & SQL Server)  
+- 📦 Data Warehousing (ODI, SSIS, SSAS)  
+- 📊 BI & Analytics (Power BI, Oracle Analytics, MetaBase)  
+- 🧮 7+ years of data analysis across sales, production, finance, HR, commerce, warehousing, and more  
+- 📈 Designing interactive dashboards  
+- 🤖 Classical AI, Data Mining & Python  
+- 💻 Proficient in PL/SQL and T-SQL  
 
-🔹Tools & Concepts: Git, web mail, Debugging, Performance Tuning, Cross-Browser Compatibility, Expertise in developing scalable applications
+---
 
-I have lots of practical experience in Python, Django, and Django REST Framework APIs.
-I've built scalable backend systems and worked with Docker.
+## 🚀 Why work with me?
 
-In addition to development, I'm also a BI and Data Warehouse specialist with a strong focus on data analysis. I design and build analytical dashboards and reporting solutions that support business decision-making using tools such as Power BI, SQL Server, Oracle, and ETL processes.
+I care about **clean code**, **beautiful UI/UX**, and **turning complex data into actionable insights**.  
+Deadlines? ✅ Met. Ideas? 💡 Turned into polished, professional digital products.  
 
-I’m passionate about clean code, great UI/UX, and turning complex data into actionable insights — always delivering on time. Let’s turn your idea into a smart, professional digital product backed by data.
+Let’s build something amazing together! 🌟  
 
-🧠 Skills & Expertise in Data & Analytics:
-
-▪️ UI/UX & Product Design
-▪️ Database administrator with expertise in Oracle and SQL Server
-▪️ Data Warehouse specialist, proficient in ODI, SSIS, and SSAS
-▪️ BI expert, skilled in Oracle Analytics and Power BI, familiar with MetaBase
-▪️ Around 7 years of experience in data analysis across sales, production, finance, HR, commerce, warehousing, and more
-▪️ Skilled in designing interactive dashboards
-▪️ Strong background in classical AI, data mining, and Python
-▪️ Proficient in PL/SQL and T-SQL
-
-<a href="https://www.freelancer.com/u/albertc1996">My Account in freelancer.com</a>
+[🔗 My Freelancer Profile](https://www.freelancer.com/u/albertc1996)
